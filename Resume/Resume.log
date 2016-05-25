@@ -126,7 +126,7 @@ Overfull \hbox (15.274pt too wide) in paragraph at lines 21--32
 [1
 
 {C:/Users/sony vaio/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/User
-s/sony vaio/eYSIP/Resume/keshav1.jpg>] [2]
+s/sony vaio/eYSIP/Resume/keshav1.jpg>] [2] [3]
 ("C:\Users\sony vaio\eYSIP\Resume\Resume.aux") ) 
 Here is how much of TeX's memory you used:
  1256 strings out of 493921
@@ -140,9 +140,9 @@ Here is how much of TeX's memory you used:
 nts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb>
-Output written on Resume.pdf (2 pages, 53553 bytes).
+Output written on Resume.pdf (3 pages, 54676 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
